@@ -40,7 +40,7 @@
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1278651995&show_icons=true)](https://github.com/1278651995)
+[![chensy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1278651995&show_icons=true)](https://github.com/1278651995)
 
 <br/>
 
