@@ -40,13 +40,13 @@
 
 <br/><br/>
 
-[![chensy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chensylz&show_icons=true)](https://github.com/1278651995)
+[![chensy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chensylz&show_icons=true)](https://github.com/chensylz)
 
 <br/>
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1278651995&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chensylz&show_icons=true)
 
 <br><br>
 
