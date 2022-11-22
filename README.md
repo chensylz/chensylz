@@ -30,7 +30,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; K8s | Docker🐳 | flask | gin
+- 🔧 &nbsp; K8s | Docker🐳 | gin | go-zero
 
 <hr>
 
