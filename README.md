@@ -7,7 +7,6 @@
 - 🐍    Python
 - 🌐    Vue
 
-<!--
 📦 常用中间件：
 - 💿 Redis
 - 📄 MySQL
@@ -15,7 +14,7 @@
 - 🐳 Docker
 - 🌟 Pulsar
 - 🛡  ElasticSearch
--->
+
 
 
 
