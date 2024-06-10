@@ -1,7 +1,4 @@
 ### Hi there 👋<h2> I'm chensy</h2>
-
-<h3>🛠 Tech Stack</h3>
-
 🌟 主要技术栈：
 - 🐱‍🏍  Go
 - 🐍    Python
