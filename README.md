@@ -1,38 +1,21 @@
 ### Hi there 👋<h2> I'm chensy</h2>
 
-<h3> 👨🏻•💻 About Me </h3>
-
-
-
-- 🤔 &nbsp; 中国制造。采用人工智能，各部分零件齐全，运转稳定，经二十多年的运行，属质量信得过产品
-
-
-
 <h3>🛠 Tech Stack</h3>
 
-
-
-- 💻 &nbsp; Python | Go | 
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Vue 
+🌟 主要技术栈：
+- 🐱‍🏍  Go
+- 🐍    Python
+- 🌐    Vue
 
 <!--
-
-- 🛢 &nbsp; MySQL | Redis
-
-- 🔧 &nbsp; Git | Markdown | bt | xshell
-
-- 🖥 &nbsp; yys | dnf | lol
-
+📦 常用中间件：
+- 💿 Redis
+- 📄 MySQL
+- 🚢 Kubernetes
+- 🐳 Docker
+- 🌟 Pulsar
+- 🛡  ElasticSearch
 -->
-
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; K8s | Docker🐳 | gin | go-zero
-
-<hr>
 
 
 
@@ -51,22 +34,6 @@
 
 
 <hr>
-
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<br>
-
-
-
-<p align="center">
-
-<a href="mailto:1278651995@qq.com">1278651995@qq.com</a>
-
-</p>
-
-
 
 
 
